@@ -5,12 +5,36 @@
   "iconURL": "https://i.imgur.com/USgjfWj.png",
   "website": "",
   "patreonURL": "",
-  "tintColor": "#6156e2",
+  "tintColor": "#527451",
   "featuredApps": [
-    "com.wtfapps.apollo16"
+    "com.wtfapps.apollo16",
+    "com.bethsoft.falloutshelter"
   ],
   "headerURL": "https://i.imgur.com/VOpUlWO.png",
   "apps": [
+    {
+      "name": "FalloutShelter",
+      "bundleIdentifier": "com.bethsoft.falloutshelter",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/PdyKTaU.png",
+      "tintColor": "#909042",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Share location when in use",
+          "NSPhotoLibraryAddUsageDescription": "Save screenshots to Photos",
+          "NSPhotoLibraryUsageDescription": "Save screenshots to Photos",
+          "NSUserTrackingUsageDescription": "Your data will be used to provide you a better and personalized ad experience."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "BitLife",
       "bundleIdentifier": "com.wtfapps.apollo16",
