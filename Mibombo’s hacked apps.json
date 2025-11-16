@@ -1,0 +1,42 @@
+{
+  "name": "Mibombo’s hacked apps",
+  "subtitle": "Hacked apps",
+  "description": "Tuff source for hacked apps🥹🤚 ",
+  "iconURL": "https://i.imgur.com/USgjfWj.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.wtfapps.apollo16"
+  ],
+  "headerURL": "https://i.imgur.com/VOpUlWO.png",
+  "apps": [
+    {
+      "name": "BitLife",
+      "bundleIdentifier": "com.wtfapps.apollo16",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/OzWJB9V.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCalendarsUsageDescription": "Some ad content may access calendar",
+          "NSCameraUsageDescription": "Some graphics libraries may access camera",
+          "NSContactsUsageDescription": "BitLife uses contacts to enable players to quickly add custom people in the game using contact information.",
+          "NSPhotoLibraryAddUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
